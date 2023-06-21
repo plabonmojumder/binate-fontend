@@ -522,10 +522,11 @@ padding-bottom: 30px;
      .service-button{
 text-align: center;
 margin-top: 40px;
+padding-bottom: 10px;
      }
      .service-button button{
-      padding: 20px;
-      color: black;
+      padding: 20px 40px;
+      color: rgba(0, 0, 0, 0.685);
       font-weight: 500;
       border-radius: 40px;
       border: none;
@@ -551,7 +552,7 @@ margin-top: 40px;
     border-radius: 20px;
      }
      .service-col h3{
-      font-weight: 650;
+      font-weight: 640;
       padding-right: 5px;
       font-size: 25px;
       margin-top: 20px;
@@ -657,5 +658,68 @@ font-weight: 500;
   padding-left: 15px;
   padding-right: 10px;
     }
+    .service-recomanded-1 h2{
+      color: white;
+  font-size: 40px;
+  font-weight: 750;
+  text-align:unset;
+  text-align: center;
+  margin-top: 20px;
+    }
+    .service-recomanded-1{
+      border: 1px solid rgb(223, 210, 210);
+      background-color: #43B97F;
+      position: absolute;
+      top: -230px;
+      padding: 30px 200px;
+      right: 120px;
+      left: 120px;
+      border: none;
+      border-radius: 20px;
+         }
+         .financial-1{
+        margin-top: 30px;
+        padding-bottom: 15px;
+         }
+         .financial-2{
+          margin-top: 30px;
+          padding-bottom: 15px;
+         }
+         .financial-3{
+          margin-top: 30px;
+          padding-bottom: 37px;
+         }
+         .financial-4{
+          margin-top: 30px;
+          padding-bottom: 15px;
+         }
+         .financial-5{
+          margin-top: 30px;
+          padding-bottom: 62px;
+         }
+         .financial-6{
+          margin-top: 30px;
+          padding-bottom: 37px;
+         }
+         .financial-7{
+          margin-top: 30px;
+          padding-bottom: 35px;
+         }
+         .financial-8{
+          margin-top: 30px;
+          padding-bottom: 15px;
+         }
+         .financial-9{
+          margin-top: 30px;
+          padding-bottom: 15px;
+         }
+         .financial-10{
+          margin-top: 30px;
+          padding-bottom: 15px;
+         }
+         .financial-11{
+          margin-top: 30px;
+          padding-bottom: 12px;
+         }
     
    
