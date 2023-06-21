@@ -784,6 +784,35 @@ font-weight: 500;
   }
 .about-bg{
   background-color: #FAFAFA;
+  padding-bottom: 50px;
+  margin-top: 60px;
+}
+.about-binate-7{
+
+}
+.about-binate-7 h1{
+  font-size: 53px;
+  font-weight: 800;
+  margin-top: 180px;
+  margin-left: 90px;
+  padding-bottom: 30px;
+ 
+}
+.about-binate-7 p{
+margin-left: 90px;
+font-size: 17px;
+font-weight: 500;
+color: #0e120f9f; 
+padding-bottom: 15px;
+text-align: justify;
+}
+.about-binate-8{
+
+}
+.about-binate-8 img{
+  width: 500px;
+  margin-top: 200px;
+  margin-left: 110px;
 }
   
     
