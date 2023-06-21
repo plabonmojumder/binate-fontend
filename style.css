@@ -582,13 +582,9 @@ font-weight: 500;
    
     }
     .im-edit-2 img{
-    width: 20px;
+    width: 82px;
     padding: 13px 20px;
   
-    }
-    .case-im-edit{
-     margin-top: 30px;
-
     }
     .case-im-edit img{
       width: 300px;
@@ -645,5 +641,21 @@ font-weight: 500;
     
    }
    .case-box{
-    padding-bottom: 50px;
-   }
+    padding-bottom: 50px;}
+
+   .im-edit-3 {
+    border: 1px solid #D4ECE4;
+   margin-right: 260px;
+   background-color: #D4ECE4;
+   border-radius: 10px;
+   
+    }
+    .im-edit-3 img{
+    width: 65px;
+    height: 65px;
+    padding: 13px ;
+  padding-left: 15px;
+  padding-right: 10px;
+    }
+    
+   
