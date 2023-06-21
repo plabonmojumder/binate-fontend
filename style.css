@@ -335,7 +335,7 @@ color:#43B97F
  color: #ffffffaf;
    }
    .binate-bg{
-    background-color: black;
+    background-color: #0E120F;
     padding-top: 200px;
     margin-top: 400px;
     position: relative;
@@ -404,7 +404,7 @@ margin-top: 30px;
  font-weight: 500;
   }
   .under-bg{
-    background-color: #0E120F;
+    background-color: black;
 
   }
   .under-item-1{
@@ -721,5 +721,70 @@ font-weight: 500;
           margin-top: 30px;
           padding-bottom: 12px;
          }
+         .about-binate-1{
+
+         }
+         .about-binate-1 h1{
+          font-size: 55px;
+          font-weight: 800;
+          margin-left: 100px;
+         }
+         .about-binate-2{
+
+         }
+         .about-binate-2 img{
+          width: 550px;
+          margin-top: 20px;
+         }
+         .about-binate-3{
+          margin-top: 17px;
+         }
+         .about-binate-3 P{
+          font-size: 18px;
+          font-weight: 500;
+          padding-bottom: 8px;
+          color: #0e120f9f;
+         }
+  .about-binate-4{
+
+  }
+  .about-binate-4 p{
+ padding: 40px 60px;
+ font-size: 18px;
+ font-weight: 500;
+ color: #0e120f9f; 
+ padding-bottom: 60px;
+  }
+  .about-binate-5{
+
+  }
+  .about-binate-5 img{
+    width: 550px;
+    margin-top: 150px;
+  }
+  .about-binate-6{
+
+  }
+  .about-binate-6 h1{
+    font-size: 53px;
+    font-weight: 800;
+    margin-left: 60px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+
+  }
+  .about-binate-6 p{
+ margin-right: 20px;
+ margin-left: 50px;
+ text-align: justify;
+ font-size: 17px;
+ padding-bottom: 15px;
+ font-weight: 500;
+ color:#0e120f9f; 
+  }
+.about-bg{
+  background-color: #FAFAFA;
+}
+  
     
    
