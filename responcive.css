@@ -1,0 +1,356 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+   
+    .banner-item-1 h1 {
+        font-size: 36px;
+       
+    }
+    .banner-item-2 img {
+       width: 461px;
+    }
+    .banner-item-1 h2 {
+    
+        .banner-button button {
+       
+            font-size: 17px;
+        }
+        
+    }
+    .banner-button button {
+        
+        font-size: 17px;
+    }
+    .our-journey-3 p {
+        
+        padding-bottom: 55px;
+    }
+    .help-section h1 {
+        font-size: 31px;
+ 
+    }
+    .help-section-2 p {
+     
+        font-size: 12px;
+        
+     
+    }
+    .help-btn button {
+
+        padding: 15px 15px;
+
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .help-section-3 img {
+    
+        width: 476px;
+    }
+    .im-edit {
+
+        margin-right: 200px;
+        
+    }
+    .im-edit-2 {
+        margin-right: 190px;
+       
+    }
+    .service-col p {
+       
+        font-size: 15px;
+    }
+    .service-col h3 {
+        
+        font-size: 22px;
+        
+    }
+    .service-col-button {
+        margin-left: 150px;
+    }
+    .recomanded h1 {
+        font-size: 27px;
+      
+    }
+    .recomanded p {
+
+        font-size: 15px;
+    }
+    .recomanded {
+      
+        top: -185px;
+     
+    }
+    .binate img {
+        width: 439px;
+    }
+   
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+
+    .banner-item-1 h1 {
+        font-size: 26px;
+        
+    }
+    .banner-item-1 h2 {
+      
+        font-size: 13px;
+       
+    }
+    .banner-button button {
+    
+        padding: 10px 12px 12px 12px;
+       
+     
+       
+        font-weight: 550;
+        font-size: 14px;
+    }
+    .banner-item-2 img {
+        margin-left: 15px;
+    
+        width: 345px;
+    }
+    .our-journey-3 p {
+        
+        padding-bottom: 55px;
+    }
+    .help-section h1 {
+        font-size: 21px;
+       
+
+    }
+    .help-section-2 p {
+     
+        font-size: 10px;
+        font-weight: 500;
+        text-align: justify;
+        
+    }
+    .help-section-2 {
+        margin-left: 90px;
+       
+    }
+    .help-section-3 img {
+        margin-top: 47px;
+        width: 365px;
+       
+    }
+    .help-btn button {
+     
+        
+        padding: 15px 15px;
+       
+      
+        font-size: 12px;
+    }
+    .im-edit {
+        margin-right: 242px;
+      
+        
+    }
+    .im-edit-2 {
+        
+        margin-right: 230px;
+      
+    }
+    .service-col-button {
+        margin-left: 195px;
+    }
+    .recomanded {
+        
+        top: -160px;
+        padding: 30px 200px;
+        right: 60px;
+        left: 60px;
+       
+    }
+    .recomanded h1 {
+        color: white;
+        font-size: 19px;
+        font-weight: 800;
+        text-align: center;
+    }
+    .recomanded p {
+        color: white;
+        text-align: center;
+        padding-bottom: 10px;
+        margin-top: 30px;
+        font-weight: 700;
+        font-size: 11px;
+    }
+    
+    .binate-2 h3 {
+        font-size: 15px;
+        
+    }
+    .binate-2 h1 {
+        font-size: 40px;
+        font-weight: 800;
+        color: #ffffff;
+    }
+    .binate-2 p {
+        font-weight: 700;
+        color: #ffffffaf;
+        font-size: 12px;
+    }
+    .binate-3 button {
+        
+        padding: 11px;
+      
+        font-size: 14px;
+    }
+    .binate img {
+        width: 349px;
+    }
+    
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    .banner-item-1 h1 {
+        font-size: 31px;
+       
+        margin-left: 0px;
+       
+        text-align: center;
+        padding: 0 8px;
+    }
+    .banner-item-1 h2 {
+        padding: 15px 10px;
+        font-size: 16px;
+       
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .banner-item-2 img {
+        margin-top: 50px;
+        margin-left: 20px;
+        padding-bottom: 84px;
+        width: 538px;
+    }
+    .banner-button {
+        margin-top: 50px;
+        margin-left: 204px;
+        padding-bottom: 50px;
+    }
+    .help-section-2 {
+        margin-left: 110px;
+    
+    }
+    .help-section h1 {
+        font-size: 35px;
+     
+        margin-left: 0px;
+        text-align: center;
+    }
+    .help-btn button {
+        background-color: #43B97F;
+        color: aliceblue;
+        padding: 11px 13px;
+        border: none;
+        border-radius: 30px;
+        font-size: 14px;
+    }
+    .help-section-3 img {
+    
+        width: 558px;
+    }
+    .im-edit {
+        
+        margin-right: 421px;
+        
+    }
+    .im-edit-2 {
+       
+        margin-right: 408px;
+        
+    }
+    .service-col-button {
+        margin-left: 370px;
+    }
+    .recomanded {
+        border: 1px solid rgb(223, 210, 210);
+        background-color: #43B97F;
+        position: absolute;
+        top: -130px;
+        padding: 30px 200px;
+        right: 10px;
+        left: 10px;
+        border: none;
+        border-radius: 20px;
+    }
+    .recomanded h1 {
+        color: white;
+        font-size: 12px;
+        font-weight: 800;
+        text-align: center;
+    }
+    .recomanded p {
+        color: white;
+        text-align: center;
+        padding-bottom: 10px;
+        margin-top: 30px;
+        font-weight: 700;
+        font-size: 7px;
+    }
+    
+
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 575px) {
+    .banner-item-1 h1 {
+        font-size: 28px;
+       
+
+        margin-left: 4px;
+      
+        text-align: center;
+        padding: 0px 10px;
+    }
+    .banner-item-1 h2 {
+        padding: 15px 0;
+        font-size: 16px;
+        color: rgba(0, 0, 0, 0.623);
+        margin-left: 8px;
+        text-align: center;
+    }
+    .banner-button {
+        margin-top: 32px;
+        margin-left: 192px;
+        padding-bottom: 40px;
+    }
+    .banner-item-2 img {
+        margin-top: 20px;
+        margin-left: 20px;
+        padding-bottom: 118px;
+        width: 529px;
+    }
+    .im-edit {
+        
+        margin-right: 459px;
+     
+    }
+    .im-edit-2 {
+      
+        margin-right: 445px;
+      
+    
+    }
+    .service-col-button {
+        margin-left: 399px;
+    }
+    .our-journey-2 {
+       
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+ 
+   
+}
+
